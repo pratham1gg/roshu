@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Dekhle",
-    "Bas karja??",
-    "Rulaegi kya?",
+    "mann se kya hota",
+    "kal subah stress nhin hona na",
+    "soja fir",
     "maanjaoo jaaneman",
-    "yes par click kr chup chaap se",
-    "If you say no, mai khaana nhin banaunga",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "kaam karlo pls",
+    "mai gussa ho jaaunga",
+    "chale jaa",
+    "BT dun?",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "chale ja "
 ];
 
 let messageIndex = 0;
